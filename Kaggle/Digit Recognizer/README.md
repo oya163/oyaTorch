@@ -10,4 +10,4 @@ In the testing set, the data is composed of only images.
 This program reads training/testing dataset, trains the neural network, evaluates the data in testing set and creates a csv file, which is ready to be submitted to Kaggle.
 
 PS. You have to download the dataset (train.csv/test.csv) from 
-https://www.kaggle.com/c/digit-recognizer/data and save into folder named input-files in order to run this program smoothly.
+https://www.kaggle.com/c/digit-recognizer/data and save into folder named "input-files" in order to run this program smoothly.
