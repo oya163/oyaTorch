@@ -1,4 +1,4 @@
-#### Digit Recognizer using PyTorch
+# Digit Recognizer using PyTorch
 
 This program recognizes hand-written digits using
 LeNet with custom class which reads csv dataset.
