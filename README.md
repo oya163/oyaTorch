@@ -1,4 +1,4 @@
-# Deep Learning practice using TORCH
+# Deep Learning practice using PyTorch 
 
 This is the deep learning repo.
 In this repository, you can find tutorials of Deep Learning architecture using PyTorch.
