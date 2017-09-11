@@ -5,3 +5,12 @@ datasets/
 *.tar
 GANs/data/
 JigsawPuzzle/data/
+GANs/*.pkl
+Kaggle/Titanic/*.csv
+JigsawPuzzle/*-Backup.*
+Kaggle/Digit\ Recognizer/input-files/
+important
+Kaggle/Digit Recognizer/*.*
+Transfer Learning/pytorch_unesco_old.ipynb
+JigsawPuzzle/createPuzzle.ipynb
+JigsawPuzzle/folder.ipynb
